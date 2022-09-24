@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Components/Chip should render 1`] = `
+<div
+  class="sc-bczRLJ kBcgRk"
+>
+  <img
+    alt="user"
+    class="sc-dkzDqf haWmmY"
+    src="person.svg"
+  />
+  <input
+    class="sc-gsnTZi jHfyPU"
+    placeholder="username"
+  />
+  <img
+    alt="search"
+    class="sc-dkzDqf sc-hKMtZM haWmmY gAKHSM"
+    src="search.svg"
+  />
+</div>
+`;
